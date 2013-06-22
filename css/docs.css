@@ -627,9 +627,17 @@ ul {
 }
 
 ._calendar {
-  background-image: url("../img/calendar.png");
-  background-repeat: no-repeat;
+  background-color: #ff9700;
   width: 280px;
+  height: 290px;
+  color: #fff;
+  padding-left: 20px;
+  padding-top: 30px;
+  padding-right: 20px;
+}
+
+._calendar p {
+  margin: 0;
 }
 
 .triangle {
