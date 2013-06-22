@@ -1,0 +1,11 @@
+# SublimeText project files
+*.sublime-workspace
+*.sublime-project
+ 
+# OSX 
+## file system
+.DS_Store
+ 
+## Files that might appear on external disk
+.Spotlight-V100
+.Trashes
